@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm mk47hyper</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk47hyper&show_icons=true&locale=en" alt="mk47hyper" /></p>
+<br/>
+
 - 🔭 I’m currently working on **ROSe**
 
 - 🌱 I’m currently learning **React, Node, Laravel & Python**
@@ -28,7 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk47hyper&show_icons=true&locale=en&layout=compact" alt="mk47hyper" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk47hyper&show_icons=true&locale=en" alt="mk47hyper" /></p>
-<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk47hyper&" alt="mk47hyper" /></p>
 
