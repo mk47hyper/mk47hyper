@@ -4,19 +4,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk47hyper&show_icons=true&locale=en" alt="mk47hyper" /></p>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk47hyper&show_icons=true&locale=en&layout=compact" alt="mk47hyper" /></p>
-<br/>
-
-
-
-
-
-
-
-
-
-
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk47hyper&show_icons=true&locale=en&layout=compact" alt="mk47hyper" /></p>
 
 - 🔭 I’m currently working on **ROSe**
 
