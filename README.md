@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marin Kirilov</h1>
-<h3 align="center">A Senior Front-End Engineer and Full-Stack Developer from London</h3>
+<h1 align="center">Hi 👋, I'm M. K. </h1>
+<h3 align="center">A Front-End Engineer and Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mk47hyper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -23,7 +23,7 @@
 ---
 
 ### 📂 **Projects**
-- 🌟 **[Gymops Clothing Startup](https://mkhyper.com)**  
+- 🌟 **[Gymops Clothing Startup](https://gymops.net)**  
   *A fitness and lifestyle e-commerce brand.*  
   Built the platform using **React** and **Tailwind CSS**, showcasing leadership and technical expertise.
 
@@ -31,7 +31,7 @@
   *An automated platform for mutual agreement divorce procedures.*  
   Designed to simplify workflows using **React** and **automation tools**.
 
-- 💡 **Mkhyper Ltd.**  
+- 💡 **[Mkhyper Ltd.](https://mkhyper.com)**  
   *Co-founder of a creative agency specializing in branding and development.*  
   Delivered custom solutions using **modern front-end frameworks**.
 
